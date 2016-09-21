@@ -1,0 +1,151 @@
+.page {
+    width: 95% !important;
+    background: #3C3C3C;
+    color: #EEE;
+}
+
+a:link {
+    color: #EEE;
+}
+
+a:hover, a:active, body_ahover {
+    color: #FFF !important;
+}
+
+a:visited, body_avisited {
+    color: #AAA;
+}
+
+.alt1, .alt1Active {
+    background: #484848;
+    color: #C8C4AC;
+}
+
+.alt1 a:link, .alt1_alink, .alt1Active a:link, .alt1Active_alink {
+	color: #DDD;
+}
+
+.alt1 a:visited, .alt1_avisited, .alt1Active a:visited, .alt1Active_avisited {
+	color: #AAA;
+}
+
+.alt1 a:hover, .alt1 a:active, .alt1_ahover, .alt1Active a:hover, .alt1Active a:active, .alt1Active_ahover {
+	color: #FFF;
+}
+
+.alt2 {
+    background: #3C3C3C !important;
+    color: #C8C8C8;
+}
+
+.alt2 a:link, .alt2_alink, .alt2Active a:link, .alt2Active_alink {
+	color: #DDD;
+}
+
+.alt2 a:visited, .alt2_avisited, .alt2Active a:visited, .alt2Active_avisited {
+	color: #AAA;
+}
+
+.alt2 a:hover, .alt2 a:active, .alt2_ahover, .alt2Active a:hover, .alt2Active a:active, .alt2Active_ahover {
+	color: #FFF;
+}
+
+.time {
+    color: #DDD;
+}
+
+.smallfont {
+    color: #CCC
+}
+
+a.smallfont {
+    color: #BBF;
+}
+
+body {
+    background: #222;
+}
+
+.thead {
+    background: #555;
+    color: #FFF;
+    border-color: rgba(0,0,0,0);
+}
+
+.thead a:link, .alt2_alink, .alt2Active a:link, .alt2Active_alink {
+	color: #DDD;
+}
+
+.thead a:visited, .alt2_avisited, .alt2Active a:visited, .alt2Active_avisited {
+	color: #DDD;
+}
+
+.thead a:hover, .alt2 a:active, .alt2_ahover, .alt2Active a:hover, .alt2Active a:active, .alt2Active_ahover {
+	color: #FFF;
+}
+
+.tborder {
+    border-width: 0;
+}
+
+.vbmenu_control {
+    background: #484848;
+    color: #B9C3CC;
+}
+
+.vbmenu_control:hover {
+    background: #777;
+}
+
+.cd_advertise {
+    display: none;
+}
+
+.vbmenu_control a:link, .vbmenu_control_alink {
+	color: #B9C3CC !important;
+	text-decoration: none;
+}
+
+.vbmenu_control a:visited, .vbmenu_control_avisited {
+	color: #B9C3CC !important;
+	text-decoration: none;
+}
+
+.vbmenu_control a:hover, .vbmenu_control a:active, .vbmenu_control_ahover {
+	color: #B9C3CC !important;
+	text-decoration: none;
+}
+
+legend {
+    color: #DDD;
+}
+
+.cd_site_menu {
+    background: #555;
+    color: #CCC;
+}
+
+.panelsurround {
+    background: #555;
+    color: #222;
+}
+
+.panel {
+    background: #444;
+}
+
+.vBulletin_editor {
+    background: #333;
+}
+
+label {
+    color: #CCC;
+}
+
+.tcat {
+    background: #777;
+}
+
+div {
+    color: #CCC;
+}
